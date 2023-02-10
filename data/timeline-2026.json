@@ -1,0 +1,140 @@
+{
+  "promo": 2026,
+  "semester": 4,
+  "projects": [
+    {
+      "module": "Cyber Security",
+      "project": "Hydra",
+      "start": "2023-5-22",
+      "end": "2023-06-18",  
+      "bttf": false
+    },
+    {
+      "module": "Year-End-Project - Zappy",
+      "project": "Zappy",
+      "start": "2023-05-22",
+      "end": "2023-06-25",
+      "bttf": false
+    },
+    {
+      "module": "Network Programming",
+      "project": "Ftp",
+      "start": "2023-02-13",
+      "end": "2023-03-12",
+      "bttf": false
+    },
+    {
+      "module": "Object-Oriented Programming",
+      "project": "Nanotekspice",
+      "start": "2023-02-06",
+      "end": "2023-03-05",
+      "bttf": false
+    },
+    {
+      "module": "Object-Oriented Programming",
+      "project": "Arcade",
+      "start": "2023-03-13",
+      "end": "2023-04-09",
+      "bttf": false
+    },
+    {
+      "module": "Object-Oriented Programming",
+      "project": "Raytracer",
+      "start": "2023-04-17",
+      "end": "2023-05-14",
+      "bttf": false
+    },
+    {
+      "module": "DevOps",
+      "project": "my_marvin",
+      "start": "2023-02-27",
+      "end": "2023-03-19",
+      "bttf": false
+    },
+    {
+      "module": "DevOps",
+      "project": "Octopus",
+      "start": "2023-03-20",
+      "end": "2023-04-09",
+      "bttf": false
+    },
+    {
+      "module": "Network Programming",
+      "project": "My_Teams",
+      "start": "2023-03-20",
+      "end": "2023-04-23",
+      "bttf": false
+    },
+    {
+      "module": "KYT/CAT - Cyber Security",
+      "project": "Cyber Security",
+      "start": "2023-04-10",
+      "end": "2023-05-14",
+      "bttf": false
+    },
+    {
+      "module": "KYT/CAT - Processor Architecture",
+      "project": "Processor Architecture",
+      "start": "2023-02-27",
+      "end": "2023-04-02",
+      "bttf": false
+    },
+    {
+      "module": "Ecrit Pro",
+      "project": "back in line",
+      "start": "2023-03-13",
+      "end": "2023-04-02",
+      "bttf": false
+    },
+    {
+      "module": "Ecrit Pro",
+      "project": "Slideshows",
+      "start": "2023-04-10",
+      "end": "2023-04-30",
+      "bttf": false
+    },
+    {
+      "module": "Ecrit Pro",
+      "project": "Experience Report",
+      "start": "2023-05-15  ",
+      "end": "2023-06-04",
+      "bttf": false
+    },
+    {
+      "module": "Month",
+      "project": "feburary",
+      "start": "2023-02-01",
+      "end": "2023-02-27",
+      "bttf": false
+    },
+    {
+      "module": "Month",
+      "project": "march",
+      "start": "2023-03-01",
+      "end": "2023-03-30",
+      "bttf": false
+    },
+    {
+      "module": "Month",
+      "project": "april",
+      "start": "2023-04-01",
+      "end": "2023-04-29",
+      "bttf": false
+    },
+    {
+      "module": "Month",
+      "project": "may",
+      "start": "2023-05-01",
+      "end": "2023-05-30",
+      "bttf": false
+    },
+    {
+      "module": "Month",
+      "project": "june",
+      "start": "2023-06-01",
+      "end": "2023-06-29",
+      "bttf": false
+    }
+  ]
+}
+
