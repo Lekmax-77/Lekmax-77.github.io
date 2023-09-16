@@ -1,0 +1,176 @@
+{
+  "promo": 2026,
+  "semester": 4,
+  "projects": [
+    {
+      "module": "Application Development",
+      "project": "AREA",
+      "start": "2023-09-18",
+      "end": "2023-11-05",  
+      "bttf": false
+    },
+    {
+      "module": "Advanced C++",
+      "project": "R-Type",
+      "start": "2023-09-18",
+      "end": "2023-11-05",  
+      "bttf": false
+    },
+    {
+      "module": "Advanced DevOps",
+      "project": "Bernstein",
+      "start": "2023-10-02",
+      "end": "2023-10-22",
+      "bttf": false
+    },
+    {
+      "module": "Advanced DevOps",
+      "project": "Whanos",
+      "start": "2023-11-20",
+      "end": "2023-12-17",
+      "bttf": false
+    },
+    {
+      "module": "Artificial Intelligence",
+      "project": "Gomoku",
+      "start": "2023-11-06",
+      "end": "2023-11-26",
+      "bttf": false
+    },
+    {
+      "module": "Computer Numerical Analysis",
+      "project": "Graph Analysis",
+      "start": "2023-10-09",
+      "end": "2023-10-29",
+      "bttf": false
+    },
+    {
+      "module": "Computer Numerical Analysis",
+      "project": "Cryptography",
+      "start": "2023-11-06",
+      "end": "2023-11-26",
+      "bttf": false
+    },
+    {
+      "module": "Computer Numerical Analysis",
+      "project": "Neural Network",
+      "start": "2023-11-27",
+      "end": "2023-12-17",
+      "bttf": false
+    },
+    {
+      "module": "Professional Communication",
+      "project": "Devil's advocate",
+      "start": "2023-09-18",
+      "end": "2023-10-01",
+      "bttf": false
+    },
+    {
+      "module": "Professional Communication",
+      "project": "3 EMAILS",
+      "start": "2023-10-09",
+      "end": "2023-10-22",
+      "bttf": false
+    },
+    {
+      "module": "Professional Communication",
+      "project": "Professional memo",
+      "start": "2023-10-30",
+      "end": "2023-11-12",
+      "bttf": false
+    },
+    {
+      "module": "Professional Communication",
+      "project": "The Geek Magazine",
+      "start": "2023-11-20",
+      "end": "2023-12-17",
+      "bttf": false
+    },
+    {
+      "module": "Part-time Job",
+      "project": "xo7 Stage",
+      "start": "2023-09-21",
+      "end": "2024-01-26",
+      "bttf": false
+    },
+    {
+      "module": "Internship",
+      "project": "Stage xo7",
+      "start": "2024-01-29",
+      "end": "2024-06-07",
+      "bttf": false
+    },
+
+    {
+      "module": "Month",
+      "project": "September",
+      "start": "2024-09-01",
+      "end": "2024-09-30",
+      "bttf": false
+    },
+    {
+      "module": "Month",
+      "project": "October",
+      "start": "2024-10-01",
+      "end": "2024-10-31",
+      "bttf": false
+    },
+    {
+      "module": "Month",
+      "project": "November",
+      "start": "2024-11-01",
+      "end": "2024-11-30",
+      "bttf": false
+    },
+    {
+      "module": "Month",
+      "project": "December",
+      "start": "2024-12-01",
+      "end": "2024-12-31",
+      "bttf": false
+    },
+    {
+      "module": "Month",
+      "project": "january",
+      "start": "2024-01-01",
+      "end": "2024-01-31",
+      "bttf": false
+    },
+    {
+      "module": "Month",
+      "project": "feburary",
+      "start": "2024-02-01",
+      "end": "2024-02-27",
+      "bttf": false
+    },
+    {
+      "module": "Month",
+      "project": "march",
+      "start": "2024-03-01",
+      "end": "2024-03-30",
+      "bttf": false
+    },
+    {
+      "module": "Month",
+      "project": "april",
+      "start": "2024-04-01",
+      "end": "2024-04-29",
+      "bttf": false
+    },
+    {
+      "module": "Month",
+      "project": "may",
+      "start": "2024-05-01",
+      "end": "2024-05-30",
+      "bttf": false
+    },
+    {
+      "module": "Month",
+      "project": "june",
+      "start": "2024-06-01",
+      "end": "2024-06-29",
+      "bttf": false
+    }
+  ]
+}
+
