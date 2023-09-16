@@ -12,8 +12,8 @@
     {
       "module": "Advanced C++",
       "project": "R-Type",
-      "start": "2023-09-18",
-      "end": "2023-11-05",  
+      "start": "2023-11-27",
+      "end": "2024-01-14",  
       "bttf": false
     },
     {
@@ -93,40 +93,34 @@
       "end": "2024-01-26",
       "bttf": false
     },
-    {
-      "module": "Internship",
-      "project": "Stage xo7",
-      "start": "2024-01-29",
-      "end": "2024-06-07",
-      "bttf": false
-    },
+
 
     {
       "module": "Month",
       "project": "September",
-      "start": "2024-09-01",
-      "end": "2024-09-30",
+      "start": "2023-09-01",
+      "end": "2023-09-30",
       "bttf": false
     },
     {
       "module": "Month",
       "project": "October",
-      "start": "2024-10-01",
-      "end": "2024-10-31",
+      "start": "2023-10-01",
+      "end": "2023-10-31",
       "bttf": false
     },
     {
       "module": "Month",
       "project": "November",
-      "start": "2024-11-01",
-      "end": "2024-11-30",
+      "start": "2023-11-01",
+      "end": "2023-11-30",
       "bttf": false
     },
     {
       "module": "Month",
       "project": "December",
-      "start": "2024-12-01",
-      "end": "2024-12-31",
+      "start": "2023-12-01",
+      "end": "2023-12-31",
       "bttf": false
     },
     {
@@ -135,42 +129,8 @@
       "start": "2024-01-01",
       "end": "2024-01-31",
       "bttf": false
-    },
-    {
-      "module": "Month",
-      "project": "feburary",
-      "start": "2024-02-01",
-      "end": "2024-02-27",
-      "bttf": false
-    },
-    {
-      "module": "Month",
-      "project": "march",
-      "start": "2024-03-01",
-      "end": "2024-03-30",
-      "bttf": false
-    },
-    {
-      "module": "Month",
-      "project": "april",
-      "start": "2024-04-01",
-      "end": "2024-04-29",
-      "bttf": false
-    },
-    {
-      "module": "Month",
-      "project": "may",
-      "start": "2024-05-01",
-      "end": "2024-05-30",
-      "bttf": false
-    },
-    {
-      "module": "Month",
-      "project": "june",
-      "start": "2024-06-01",
-      "end": "2024-06-29",
-      "bttf": false
     }
+
   ]
 }
 
