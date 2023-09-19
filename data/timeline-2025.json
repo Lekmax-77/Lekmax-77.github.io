@@ -3,6 +3,69 @@
   "semester": 4,
   "projects": [
     {
+      "module": "Hub",
+      "project": "Hub",
+      "start": "2023-09-18",
+      "end": "2024-01-21",  
+      "bttf": false
+    },
+    {
+      "module": "Design Sprint",
+      "project": "EIP",
+      "start": "2024-01-15",
+      "end": "2024-01-21",  
+      "bttf": false
+    },
+    {
+      "module": "Initiation To ideation",
+      "project": "EIP",
+      "start": "2023-11-05",
+      "end": "2023-11-27",  
+      "bttf": false
+    },
+    {
+      "module": "KYT CAT - IA",
+      "project": "KYT CAT",
+      "start": "2023-10-02",
+      "end": "2023-11-12",  
+      "bttf": false
+    },
+    {
+      "module": "KYT CAT - Algo",
+      "project": "KYT CAT",
+      "start": "2023-11-12",
+      "end": "2023-12-17",  
+      "bttf": false
+    },
+    {
+      "module": "Project 1",
+      "project": "English",
+      "start": "2023-09-18",
+      "end": "2023-10-29",  
+      "bttf": false
+    },
+    {
+      "module": "Project 2",
+      "project": "English",
+      "start": "2023-10-29",
+      "end": "2023-12-10",  
+      "bttf": false
+    },
+    {
+      "module": "Project 3",
+      "project": "English",
+      "start": "2023-12-04",
+      "end": "2024-01-14",  
+      "bttf": false
+    },
+    {
+      "module": "Tepitech",
+      "project": "English",
+      "start": "2023-09-18",
+      "end": "2024-01-26",  
+      "bttf": false
+    },
+    {
       "module": "Application Development",
       "project": "AREA",
       "start": "2023-09-18",
