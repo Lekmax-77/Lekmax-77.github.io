@@ -10,71 +10,71 @@
       "bttf": false
     },
     {
-      "module": "Design Sprint",
-      "project": "EIP",
+      "module": "EIP",
+      "project": "Design Sprint",
       "start": "2024-01-15",
       "end": "2024-01-21",  
       "bttf": false
     },
     {
-      "module": "Initiation To ideation",
-      "project": "EIP",
+      "module": "EIP",
+      "project": "Initiation To ideation",
       "start": "2023-11-05",
       "end": "2023-11-27",  
       "bttf": false
     },
     {
-      "module": "KYT CAT - IA",
-      "project": "KYT CAT",
+      "module": "KYT CAT",
+      "project": "KYT CAT - IA",
       "start": "2023-10-02",
       "end": "2023-11-12",  
       "bttf": false
     },
     {
-      "module": "KYT CAT - Algo",
-      "project": "KYT CAT",
+      "module": "KYT CAT",
+      "project": "KYT CAT - Algo",
       "start": "2023-11-12",
       "end": "2023-12-17",  
       "bttf": false
     },
     {
-      "module": "Project 1",
-      "project": "English",
+      "module": "English",
+      "project": "Project 1",
       "start": "2023-09-18",
       "end": "2023-10-29",  
       "bttf": false
     },
     {
-      "module": "Project 2",
-      "project": "English",
+      "module": "English",
+      "project": "Project 2",
       "start": "2023-10-29",
       "end": "2023-12-10",  
       "bttf": false
     },
     {
-      "module": "Project 3",
-      "project": "English",
+      "module": "English",
+      "project": "Project 3",
       "start": "2023-12-04",
       "end": "2024-01-14",  
       "bttf": false
     },
     {
-      "module": "Tepitech",
-      "project": "English",
+      "module": "English",
+      "project": "Tepitech",
       "start": "2023-09-18",
       "end": "2024-01-26",  
       "bttf": false
     },
     {
-      "module": "Application Development",
-      "project": "AREA",
+      "module": "Main Track",
+      "project": "Application Development - AREA",
       "start": "2023-09-18",
       "end": "2023-11-05",  
       "bttf": false
     },
     {
-      "module": "Advanced C++",
-      "project": "R-Type",
+      "module": "Main Track",
+      "project": "Advanced C++ - R-Type",
       "start": "2023-11-27",
       "end": "2024-01-14",  
       "bttf": false
